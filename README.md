@@ -2,7 +2,7 @@
 ​
 # Hello Microverse
 ​
-> This application is very simple project Hello Microverse project.
+> This application is a very simple Hello Microverse project.
 ​
 ​
 ## Built With
@@ -37,7 +37,7 @@ Run in your terminal the following commands:
 ​
 👤 **Maher Ramadan**
 ​
-- GitHub: [@nicupop729](https://github.com/maherramadan78/)
+- GitHub: [@maherramadan78](https://github.com/maherramadan78/)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/maher-ramadan-655623a4/)
 ​
 
